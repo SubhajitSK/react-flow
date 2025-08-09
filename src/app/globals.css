@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* React Flow cursor fixes */
+.react-flow__pane {
+  cursor: default !important;
+}
